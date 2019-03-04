@@ -1,12 +1,14 @@
 ## Budowa aplikacji Xamarin.Forms z wykorzystaniem języka F# i wzorca MVU
 
+<small>Łukasz Łysyganicz | llysyganicz@pgs-soft.com</small>
+
 ---
 
 ## Agenda
 
 * Wprowadzenie do MVU
-* Podstawowa struktura aplikacji
 * Biblioteka Fabulous
+* Podstawowa struktura aplikacji
 * Demo
 
 ---?image=https://elmbridge.github.io/curriculum/images/elm-architecture-4.jpeg&position=center&size=45%
@@ -70,6 +72,7 @@ Elmish dla Xamarin.Forms
 ## Linki
 
 * Elmish: https://elmish.github.io/elmish/
+* SAFE Stack: https://safe-stack.github.io/
 * Fabulous: https://fsprojects.github.io/Fabulous/
 * Awesome Fabulous: https://github.com/jimbobbennett/Awesome-Fabulous
 
