@@ -1,6 +1,6 @@
 ## Budowa aplikacji Xamarin.Forms z wykorzystaniem języka F# i wzorca MVU
 
-<small>Łukasz Łysyganicz | llysyganicz@pgs-soft.com</small>
+<small>Łukasz Łysyganicz | llysyganicz@outlook.com</small>
 
 ---
 
@@ -50,7 +50,7 @@ Elmish dla Xamarin.Forms
 * Połączenie całości
 @ulend
 
-+++?code=src/Sample.fs#lang=fsharp&color=#FBF1C7&title=Podstawowa struktura aplikacji
++++?code=src/Sample.fs#lang=fsharp&title=Podstawowa struktura aplikacji
 @[10-13](Model)
 @[15-21](Wiadomości)
 @[23-25](Funkcja init)

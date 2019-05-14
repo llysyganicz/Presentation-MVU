@@ -32,7 +32,7 @@ theme-override : template/css/PITCHME.css
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Łukasz Łysyganicz | e-mail: llysyganicz@pgs-soft.com"
+footnote : "Łukasz Łysyganicz | e-mail: llysyganicz@outlook.com"
 
 #
 # Highlight (Code) Setting
