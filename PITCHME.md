@@ -1,6 +1,6 @@
 ## Budowa aplikacji Xamarin.Forms z wykorzystaniem języka F# i wzorca MVU
 
-<small>Łukasz Łysyganicz | llysyganicz@pgs-soft.com</small>
+<small>Łukasz Łysyganicz | llysyganicz@outlook.com</small>
 
 ---
 
