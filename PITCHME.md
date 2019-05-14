@@ -50,7 +50,7 @@ Elmish dla Xamarin.Forms
 * Połączenie całości
 @ulend
 
-+++?code=src/Sample.fs#lang=fsharp&color=#FBF1C7&title=Podstawowa struktura aplikacji
++++?code=src/Sample.fs#lang=fsharp&title=Podstawowa struktura aplikacji
 @[10-13](Model)
 @[15-21](Wiadomości)
 @[23-25](Funkcja init)
